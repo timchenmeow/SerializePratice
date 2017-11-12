@@ -1,0 +1,17 @@
+﻿[
+  {
+    "bookAuthor": "蒲松齡",
+    "bookName": "聊齋誌異",
+    "bookPrice": 100.5
+  },
+  {
+    "bookAuthor": "劉義慶",
+    "bookName": "世說新語",
+    "bookPrice": 200.5
+  },
+  {
+    "bookAuthor": "曹雪芹",
+    "bookName": "紅樓夢",
+    "bookPrice": 168.8
+  }
+]
